@@ -15,10 +15,9 @@ This project demonstrates basic text preprocessing techniques using Python. The 
 text-preprocessing-project/
 ├── data/
 │   └── sample.csv                     # Sample input data from kaggle
-├── notebook/
-│   └── Text_preprocessing.ipynb      # Jupyter notebook
-├── README.md                         # Project description
-└── requirements.txt                  # Required Python libraries
+├──Text_preprocessing.ipynb            # Jupyter notebook
+├── README.md                          # Project description
+└── requirements.txt                   # Required Python libraries
 ```
 
 ## 🔗 Dataset
