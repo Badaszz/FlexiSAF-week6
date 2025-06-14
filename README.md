@@ -8,15 +8,16 @@ This project demonstrates basic text preprocessing techniques using Python. The 
 - Removal of stopwords
 - Removal of frequent words
 - Lemmatization
+- spelling correction
 
 ## 📂 Project Structure
 ```
 text-preprocessing-project/
 ├── data/
-│   └── sample.csv                     # Sample input data
+│   └── sample.csv                     # Sample input data from kaggle
 ├── notebook/
-│   └── Text_preprocessing.ipynb      # Your Jupyter notebook
-├── README.md                         # Project overview
+│   └── Text_preprocessing.ipynb      # Jupyter notebook
+├── README.md                         # Project description
 └── requirements.txt                  # Required Python libraries
 ```
 
